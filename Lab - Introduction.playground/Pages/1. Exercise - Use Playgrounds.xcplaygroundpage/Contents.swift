@@ -10,14 +10,14 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
-
+print("Walk It Talk It")
+print("Migos")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("Walk it, like I talk it")
+print("Take my shoes and walk a mile")
+print("Say that we been beefing, dog but you on your own")
 /*:
  
  _Copyright © 2017 Apple Inc._
